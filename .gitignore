@@ -1,0 +1,13 @@
+#.gitignore untuk proyek Vivado
+*.jou
+*.log
+*.str
+*.zip
+.Xil/
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.backup.log
